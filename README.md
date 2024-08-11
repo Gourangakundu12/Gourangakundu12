@@ -1,3 +1,4 @@
+![logo](https://github.com/Gourangakundu12/Gourangakundu12/blob/main/Gouranga-kundu1.jpg)
 <h1 align="center">Hi 👋, I'm Gouranga kundu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding"width="400"src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
